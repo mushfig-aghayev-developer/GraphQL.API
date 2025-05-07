@@ -9,8 +9,7 @@ Benefits:
     High control over data requested.
     Strong developer tooling support.
 
-🔧 Installation
-To get started with GraphQL in ASP.NET Core, install the HotChocolate library:
+🔧 Installation GraphQL in ASP.NET Core, install the HotChocolate library:
    Install-Package HotChocolate.AspNetCore
 
 GraphQL has three main types of operations:
